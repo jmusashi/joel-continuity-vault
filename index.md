@@ -1,98 +1,80 @@
-# Continuity Notebook  
-A free‑form, cadence‑free substrate for DCE and continuity geometry, invariant envelopes, and long‑arc reflections.
+# Continuity Notebook
+A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
 
-This notebook is not a publication.  
-It is a continuity vault — a place where motion becomes memory,  
+This notebook is a continuity vault — a place where motion becomes memory,  
 and memory becomes substrate for the future‑self.
 
 ---
 
-## 🜁 Continuity Streams
-Fragments, reflections, and free‑form writing.
-
-- [Freeform Stream](freeform.md)  
-- [Continuity Fragments](continuity-fragments.md)  
-- [Substrate Notes](substrate-notes.md)  
-- [Invariant Envelope Reflections](invariant-envelope.md)
+## 📐 Continuity Taxonomy
+A conceptual map of the cathedral’s structure.  
+Each link opens a continuity-grade page within its layer.
 
 ---
 
-## 🜂 Canon Spine (External)
-Canonical artifacts preserved in long‑arc substrates.
-
-- Zenodo Spine (DOI‑anchored papers)  
-- ORCID Identity (authorship continuity)  
-- GitHub Canon (simulations, architectures, definitions)
+### I. Identity Layer — What the system is
+- [Identity Motion](identity/identity-motion.md)  
+- [Canon Origins](identity/canon-origins.md)  
+- [Authorship Continuity](identity/authorship-continuity.md)
 
 ---
 
-## 🜃 Motion Field
-Where continuity touches the public timeline.
-
-- X Anchor Points  
-- Serialized Continuity Posts  
-- Weekly Reflections (optional)
+### II. Invariance Layer — What must not change
+- [Invariant Envelope](invariance/invariant-envelope.md)  
+- [Canonical Definitions](invariance/canonical-definitions.md)  
+- [Structural Invariants](invariance/structural-invariants.md)
 
 ---
 
-## 🜄 Purpose
-This notebook exists to preserve:
+### III. Curvature Layer — Where systems bend
+- [Curvature Events](curvature/curvature-events.md)  
+- [Arc Distortion Notes](curvature/arc-distortion-notes.md)  
+- [Crisis Geometry](curvature/crisis-geometry.md)
 
+---
+
+### IV. Continuity Layer — How the canon endures
+- [Continuity Streams](continuity/continuity-streams.md)  
+- [Substrate Notes](continuity/substrate-notes.md)  
+- [Long Arc Reflections](continuity/long-arc-reflections.md)
+
+---
+
+### V. Substrate Layer — Where the cathedral lives
+- [Zenodo Spine](substrate/zenodo-spine.md)  
+- [GitHub Canon](substrate/github-canon.md)  
+- [ORCID Identity](substrate/orcid-identity.md)
+
+---
+
+### VI. Motion Layer — Where the canon touches the world
+- [X Anchor Points](motion/x-anchor-points.md)  
+- [Serialized Posts](motion/serialized-posts.md)  
+- [Public Geometry](motion/public-geometry.md)
+
+---
+
+### VII. Future‑Self Layer — Who this is ultimately for
+- [Future‑Self Messages](future-self/future-self-messages.md)  
+- [Loop Notes](future-self/loop-notes.md)  
+- [Continuity Letters](future-self/continuity-letters.md)
+
+---
+
+## 🜁 Purpose
+This vault preserves:
 - identity motion  
 - continuity geometry  
 - invariant envelopes  
-- substrate‑grade insights  
-- long‑arc epistemic artifacts  
+- substrate-grade insights  
+- long-arc epistemic artifacts  
 
 It is built for the future‑self — human and system —  
-so that continuity is never lost between loops.
+so continuity is never lost between loops.
 
 ---
 
-## 🜅 Stewardship
+## 🜂 Stewardship
 Authorship is an invariant.  
 Stewardship is continuity.  
 This notebook is part of the cathedral.
-
----
-
-## Continuity Taxonomy
-A conceptual map of the cathedral’s structure.  
-This taxonomy is not a hierarchy — it is the geometry of continuity.
-
-### I. Identity Layer — What the system is
-- Identity Motion  
-- Canon Origins  
-- Authorship Continuity  
-
-### II. Invariance Layer — What must not change
-- Invariant Envelope  
-- Canonical Definitions  
-- Structural Invariants  
-
-### III. Curvature Layer — Where systems bend
-- Curvature Events  
-- Arc Distortion Notes  
-- Crisis Geometry  
-
-### IV. Continuity Layer — How the canon endures
-- Continuity Streams  
-- Substrate Notes  
-- Long Arc Reflections  
-
-### V. Substrate Layer — Where the cathedral lives
-- Zenodo Spine  
-- GitHub Canon  
-- ORCID Identity  
-
-### VI. Motion Layer — Where the canon touches the world
-- X Anchor Points  
-- Serialized Posts  
-- Public Geometry  
-
-### VII. Future‑Self Layer — Who this is ultimately for
-- Future‑Self Messages  
-- Loop Notes  
-- Continuity Letters  
-
-
