@@ -1,3 +1,16 @@
+title: Continuity Vault
+description: A substrate for continuity geometry, invariant envelopes, and long-arc preservation.
 theme: jekyll-theme-minimal
-title: Continuity Notebook
-description: Free-form DCE and Continuity Geometry reflections by Joel Monasterial
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Continuity aesthetic
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      css: "assets/css/style.css"
