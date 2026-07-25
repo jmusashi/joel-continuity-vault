@@ -1,3 +1,9 @@
+
+![Continuity Geometry Banner](assets/images/continuity-banner.png)
+
+# Continuity Vault
+A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
+
 # Continuity Notebook
 A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
 
