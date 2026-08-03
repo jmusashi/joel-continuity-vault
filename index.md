@@ -58,6 +58,7 @@ Each link opens a continuity-grade page within its layer.
 - [X Anchor Points](motion/x-anchor-points.md)  
 - [Serialized Posts](motion/serialized-posts.md)  
 - [Public Geometry](motion/public-geometry.md)
+- [AI Myths Through the Lens of Continuity Geometry](motion/public-geometry/ai-myths-continuity-geometry.md)
 
 ---
 
