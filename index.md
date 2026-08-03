@@ -59,6 +59,7 @@ Each link opens a continuity-grade page within its layer.
 - [Serialized Posts](motion/serialized-posts.md)  
 - [Public Geometry](motion/public-geometry.md)
 - [AI Myths Through the Lens of Continuity Geometry](motion/public-geometry/ai-myths-continuity-geometry.md)
+- [The Continuity Geometry Epistemic Inversion](motion/public-geometry/the-continuity-geometry-epistemic-inversion.md)
 
 ---
 
