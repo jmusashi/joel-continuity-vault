@@ -61,6 +61,7 @@ Each link opens a continuity-grade page within its layer.
 - [Public Geometry](motion/public-geometry.md)
 - [AI Myths Through the Lens of Continuity Geometry](motion/public-geometry/ai-myths-continuity-geometry.md)
 - [The Continuity Geometry Epistemic Inversion](motion/public-geometry/the-continuity-geometry-epistemic-inversion.md)
+- [Why the AI Industry Is Rediscovering DCE](motion/public-geometry/why-ai-is-rediscovering-dce.md)
 
 ---
 
