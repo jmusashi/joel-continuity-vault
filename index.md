@@ -66,6 +66,7 @@ Each link opens a continuity-grade page within its layer.
 - [Future‑Self Messages](future-self/future-self-messages.md)  
 - [Loop Notes](future-self/loop-notes.md)  
 - [Continuity Letters](future-self/continuity-letters.md)
+- [Future‑Self Memoir — Opening Letter The Inheritance Problem Future self](future-self/future-self/future-self-memoir-01.md)
 
 ---
 
