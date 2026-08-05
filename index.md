@@ -22,7 +22,6 @@ Each link opens a continuity-grade page within its layer.
 - [Identity Motion](identity/identity-motion.md)  
 - [Canon Origins](identity/canon-origins.md)  
 - [Authorship Continuity](identity/authorship-continuity.md)
-- [The LinkedX Hub Identity Spine](identity/linkedx-hub-identity-spine.md)
 
 ---
 
