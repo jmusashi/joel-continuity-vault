@@ -50,8 +50,6 @@ Each link opens a continuity-grade page within its layer.
 - [Zenodo Spine](substrate/zenodo-spine.md)  
 - [GitHub Canon](substrate/github-canon.md)  
 - [ORCID Identity](substrate/orcid-identity.md)
-- [Continuity Substrate for Autonomous Electric Vehicles: A Seven‑Stage Civilizational Architecture](substrate/continuity-substrate-aev.md)
-- [Buzzwords as Continuity Geometry Failure Modes](substrate/failure-mode/buzzword-invariant-table.md)
 
 ---
 
