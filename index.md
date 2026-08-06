@@ -51,6 +51,7 @@ Each link opens a continuity-grade page within its layer.
 - [Zenodo Spine](substrate/zenodo-spine.md)  
 - [GitHub Canon](substrate/github-canon.md)  
 - [ORCID Identity](substrate/orcid-identity.md)
+- [xPOS and Professional AI Cognition: Structural Pattern Alignment](substrate/cognition/xpos-pattern-alignment.md)
 
 ---
 
