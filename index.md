@@ -72,6 +72,14 @@ Each link opens a continuity-grade page within its layer.
 
 ---
 
+### VIII. Substrate Convergence Provenance
+It captures three essential properties:
+- Substrate — because the convergence occurs at the identity‑invariant layer, not at the application or cognition layer.
+- Convergence — because the event describes independent rediscovery of the same universal invariants.
+- Provenance — because this layer documents historical emergence, validation, and reinforcement of the canon.
+
+[Substrate Manual and Device Convergence](continuity-vault/provenance/substrate-convergence/manual-device-convergence.md)
+
 ## 🜁 Purpose
 This vault preserves:
 - identity motion  
