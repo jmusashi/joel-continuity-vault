@@ -45,6 +45,7 @@ Each link opens a continuity-grade page within its layer.
 - [Substrate Notes](continuity/substrate-notes.md)  
 - [Long Arc Reflections](continuity/long-arc-reflections.md)
 - [IBCS vs NVIDIA Autonomous Vehicle Stack](continuity-streams/ibcs-autonomy-reflection.md)
+- [AI Governance Convergence Note](continuity/AI_Governance_Convergence_Note.md)
 
 ---
 
