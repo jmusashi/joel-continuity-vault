@@ -83,7 +83,9 @@ It captures three essential properties:
 - Convergence — because the event describes independent rediscovery of the same universal invariants.
 - Provenance — because this layer documents historical emergence, validation, and reinforcement of the canon.
 
-[Substrate Manual and Device Convergence](provenance/manual-device-convergence.md)
+- [Substrate Manual and Device Convergence](provenance/manual-device-convergence.md)
+- [G-Subset-Zerp and the Identity-Light Relationship](substrate/G‑Subset‑Zero_and_the_Identity–Light_Relationship.md)
+
 ## 🜁 Purpose
 This vault preserves:
 - identity motion  
