@@ -8,8 +8,7 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 ## Identity Spine
 
 - **Continuity Geometry**  
-- **DCE Canonical Index**  
-  DOI: 10.5281/zenodo.20845213  
+- **DCE Canonical Index:** DOI: 10.5281/zenodo.20845213  
 - **Identity Invariant Spine (LinkedX Hub)**  
 - **Continuity Theater (X Episodes)**  
 - **Continuity Papers (Zenodo paper xx.x.x Series)**  
