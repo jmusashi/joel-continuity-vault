@@ -1,7 +1,4 @@
-analytics:
-  provider: "google-gtag"
-  google:
-    measurement_id: "G-K76TM5YCCM"
+google_analytics: G-XXXXXXXXXX
     
 title: Continuity Vault
 description: A substrate for continuity geometry, invariant envelopes, and long-arc preservation.
