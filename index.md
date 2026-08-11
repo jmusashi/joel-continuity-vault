@@ -1,5 +1,45 @@
+# Joel Monasterial  
+**Continuity Geometry • DCE Canonical Index • Nomadic Hermit Identity**
 
-![Continuity Geometry Banner](assets/images/continuity-banner.png)
+Welcome to my continuity vault. This is the public landing page for my identity spine, my continuity canon, and my research architecture.
+
+---
+
+## Identity Spine
+
+- **Continuity Geometry**  
+- **DCE Canonical Index**  
+  DOI: 10.5281/zenodo.20845213  
+- **Identity Invariant Spine (LinkedX Hub)**  
+- **Continuity Theater (X Episodes)**  
+- **Continuity Papers (Zenodo paper xx.x.x Series)**  
+- **Continuity Posts and Issues (LinkedIn Issue x.x Narrative Series)**  
+
+---
+
+## Repository Spine
+
+- **GitHub** – Research, code, continuity artifacts, canonical documents
+- **Zenodo** – Preprints and research papers  
+
+---
+
+## Narrative
+
+I develop the continuity geometry canon, the DCE foundation series, and the identity substrate architecture for the Knowledge Age. My work spans invariant-based coordination science, continuity geometry, and the Total Architecture of Being.
+
+This vault serves as the public anchor for my continuity canon and the narrative spine that connects my research, commentary, and identity.
+
+---
+
+## Presence
+
+- https://linkedin.com/in/joelmonasterial
+- https://x.com/joelmonasterial
+- https://joel.monasterial.ph
+- https://orcid.org/0009-0000-7620-645X
+
+<!-- ## ![Continuity Geometry Banner](assets/images/continuity-banner.png)  -->
 
 # Continuity Vault
 A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
