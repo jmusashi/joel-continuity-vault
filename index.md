@@ -84,7 +84,7 @@ It captures three essential properties:
 - Provenance — because this layer documents historical emergence, validation, and reinforcement of the canon.
 
 - [Substrate Manual and Device Convergence](provenance/manual-device-convergence.md)
-- [G-Subset-Zerp and the Identity-Light Relationship](substrate/G‑Subset‑Zero_and_the_Identity–Light_Relationship.md)
+- [G-Subset-Zero and the Identity-Light Relationship](substrate/G‑Subset‑Zero_and_the_Identity–Light_Relationship.md)
 
 ## 🜁 Purpose
 This vault preserves:
