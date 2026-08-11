@@ -18,7 +18,7 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 
 ## Repository Spine
 
-- **GitHub** – Research, code, continuity artifacts, canonical documents
+- **GitHub** – Research, code, continuity artifacts, canonical documents, diagrams, pdf and simulators
 - **Zenodo** – Preprints and research papers  
 
 ---
