@@ -96,6 +96,7 @@ Each link opens a continuity-grade page within its layer.
 - [xPOS and Professional AI Cognition: Structural Pattern Alignment](substrate/cognition/xpos-pattern-alignment.md)
 - [xPOS vs. Professional AI Cognition](substrate/cognition/xpos_vs_professional_ai_cognition.md)
 - [Buzzwords as Continuity Geometry Failure Modes](substrate/failure-mode/buzzword-invariant-table.md)
+- [The Continuity Substrate for Autonomous Electric Vehicles](substrate/continuity-substrate-aev.md)
 
 ---
 
