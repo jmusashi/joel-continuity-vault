@@ -95,6 +95,7 @@ Each link opens a continuity-grade page within its layer.
 - [ORCID Identity](substrate/orcid-identity.md)
 - [xPOS and Professional AI Cognition: Structural Pattern Alignment](substrate/cognition/xpos-pattern-alignment.md)
 - [xPOS vs. Professional AI Cognition](substrate/cognition/xpos_vs_professional_ai_cognition.md)
+- [Buzzwords as Continuity Geometry Failure Modes](substrate/failure-mode/buzzword-invariant-table.md)
 
 ---
 
