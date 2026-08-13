@@ -33,9 +33,9 @@ This vault serves as the public anchor for my continuity canon and the narrative
 
 ## Identity Provenance and Presence
 
-- https://linkedin.com/in/joelmonasterial
-- https://x.com/joelmonasterial
-- https://orcid.org/0009-0000-7620-645X
+- [https://linkedin.com/in/joelmonasterial](https://linkedin.com/in/joelmonasterial)
+- [https://x.com/joelmonasterial](https://x.com/joelmonasterial)
+- [https://orcid.org/0009-0000-7620-645X](https://orcid.org/0009-0000-7620-645X)
 - https://joel.monasterial.ph - this site
   
 <!-- ## ![Continuity Geometry Banner](assets/images/continuity-banner.png)  -->
