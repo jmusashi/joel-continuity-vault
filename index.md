@@ -97,6 +97,7 @@ Each link opens a continuity-grade page within its layer.
 - [xPOS vs. Professional AI Cognition](substrate/cognition/xpos_vs_professional_ai_cognition.md)
 - [Buzzwords as Continuity Geometry Failure Modes](substrate/failure-mode/buzzword-invariant-table.md)
 - [The Continuity Substrate for Autonomous Electric Vehicles](substrate/continuity-substrate-aev.md)
+- [Continuity Geometry as a Unified Structural Template for Complex Systems](substrate/continuity_geometry_as_a_unified.md)
 
 ---
 
@@ -114,7 +115,6 @@ Each link opens a continuity-grade page within its layer.
 - [Future‑Self Messages](future-self/future-self-messages.md)  
 - [Loop Notes](future-self/loop-notes.md)  
 - [Continuity Letters](future-self/continuity-letters.md)
-  
 - [Future Self Memoir](future-self/future-self-memoir-01.md)
 - [Unfolding of the Admissibility Boundary and the A>K Transition](future-self/unfolding_admissibility_boundary_and_transition.md)
 - [A>K Identity Transition Under Admissibility Pressure](index/A-K-Identity-Transition-Index.md)
