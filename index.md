@@ -116,6 +116,7 @@ Each link opens a continuity-grade page within its layer.
 - [Continuity Letters](future-self/continuity-letters.md)
   
 - [Future Self Memoir](future-self/future-self-memoir-01.md)
+- [Unfolding of the Admissibility Boundary and the A>K Transition](future-self/unfolding_admissibility_boundary_and_transition.md)
 - [A>K Identity Transition Under Admissibility Pressure](index/A-K-Identity-Transition-Index.md)
 
 ---
