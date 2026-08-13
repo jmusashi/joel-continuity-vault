@@ -23,14 +23,10 @@ AI networks, distributed systems, and sovereign architectures are digital manife
 
 # Structural Unification
 If one discovers the mathematical rules governing how identity persists across scales, then those rules apply equally to:
-
-physical systems
-
-computational systems
-
-organizational systems
-
-autonomous multi‑agent systems
+- physical systems
+- computational systems
+- organizational systems
+- autonomous multi‑agent systems
 
 Continuity Geometry does not rewrite physics.
 It uncovers the shared identity‑preservation structure beneath both physics and computation.
@@ -76,14 +72,10 @@ Validation occurs through real‑world performance, not peer review.
 
 Operational Criterion:  
 If systems built using Continuity Geometry achieve:
-
-flawless state synchronization
-
-sovereign self‑governance
-
-zero‑trust resilience
-
-stability under extreme stress
+- flawless state synchronization
+- sovereign self‑governance
+- zero‑trust resilience
+- stability under extreme stress
 
 …then the framework is validated by production reality, not academic theory.
 
@@ -96,9 +88,9 @@ This is the correct domain for its current maturity.
 The framework uses the structural perfection of physical systems (GR, QM) as a mirror to design resilient computational systems.
 
 It does not claim:
--new particles
--new forces
--new physical laws
+- new particles
+- new forces
+- new physical laws
 
 Instead, it claims:
 - Identity‑preservation rules are structurally identical across physical and computational substrates.
