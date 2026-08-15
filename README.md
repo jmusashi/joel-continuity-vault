@@ -113,6 +113,9 @@ This vault is:
 Entries may be fragments, reflections, canonical notes, or long‑arc insights.  
 There is no schedule, no format, and no expectation — only continuity.
 
+Ask an AI companion to interpret the posts based on the author’s knowledge age guide:
+- [https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts](https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts)
+
 ---
 
 ## Stewardship
