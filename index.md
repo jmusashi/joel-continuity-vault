@@ -102,6 +102,7 @@ Each link opens a continuity-grade page within its layer.
 - [Buzzwords as Continuity Geometry Failure Modes](substrate/failure-mode/buzzword-invariant-table.md)
 - [The Continuity Substrate for Autonomous Electric Vehicles](substrate/continuity-substrate-aev.md)
 - [Continuity Geometry as a Unified Structural Template for Complex Systems](substrate/continuity_geometry_as_a_unified.md)
+- [Identity Anchoring vs Institutional Liability](substrate/Identity_anchoring_vs_Institutional_Liability.md)
 
 ---
 
