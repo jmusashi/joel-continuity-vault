@@ -103,6 +103,7 @@ Each link opens a continuity-grade page within its layer.
 - [The Continuity Substrate for Autonomous Electric Vehicles](substrate/continuity-substrate-aev.md)
 - [Continuity Geometry as a Unified Structural Template for Complex Systems](substrate/continuity_geometry_as_a_unified.md)
 - [Identity Anchoring vs Institutional Liability](substrate/Identity_anchoring_vs_Institutional_Liability.md)
+- [Continuity Artifact Format — Substrate-Level Vessel for Identity Continuity](substrate/CAF-1_Specification.md)
 
 ---
 
@@ -135,7 +136,6 @@ It captures three essential properties:
 
 - [Substrate Manual and Device Convergence](provenance/manual-device-convergence.md)
 - [G-Subset-Zero and the Identity-Light Relationship](substrate/G‑Subset‑Zero_and_the_Identity–Light_Relationship.md)
-- [Continuity Artifact Format — Substrate-Level Vessel for Identity Continuity](substrate/CAF-1_Specification.md)
 
 ## 🜁 Purpose
 This vault preserves:
