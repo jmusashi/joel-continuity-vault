@@ -105,6 +105,7 @@ Each link opens a continuity-grade page within its layer.
 - [Identity Anchoring vs Institutional Liability](substrate/Identity_anchoring_vs_Institutional_Liability.md)
 - [CAF-1 Specification: Continuity Artifact Format — Substrate-Level Vessel for Identity Continuity](substrate/CAF-1_Specification.md)
 - [CV‑1 Runtime Architecture](substrate/CV-1_Runtime_Architecture.md)
+- [CS‑1 Generation Protocol](substrate/CS-1_Generation_Protocol.md)
 
 ---
 
