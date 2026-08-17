@@ -289,4 +289,5 @@ CAF‑1 provides a formal, implementable specification for binding identity inva
 CAF‑1 is ready for engineering implementation.
 
 Continuity Vault Layer 
+
 This document belongs in the Continuity Substrate Layer, as it defines the formal specification for identity-continuity vessels used across all artifact formats.
