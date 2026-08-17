@@ -106,7 +106,7 @@ Each link opens a continuity-grade page within its layer.
 - [CAF-1 Specification: Continuity Artifact Format — Substrate-Level Vessel for Identity Continuity](substrate/CAF-1_Specification.md)
 - [CV‑1 Runtime Architecture](substrate/CV-1_Runtime_Architecture.md)
 - [CS‑1 Generation Protocol](substrate/CS-1_Generation_Protocol.md)
-- [CAF‑1 Integration Guide](substrate/CAF-1_Integration_Guide)
+- [CAF‑1 Integration Guide](substrate/CAF-1_Integration_Guide.md)
 
 ---
 
