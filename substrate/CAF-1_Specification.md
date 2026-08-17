@@ -83,9 +83,11 @@ CAF‑1 is represented as a structured object. JSON is recommended for interoper
 ### 3.2 Field Definitions
 
 cafVersion
+
 Version of the CAF‑1 specification. Enables forward compatibility.
 
 identityInvariant
+
 Carries the identity continuity layer.
 
 cs1 — the one-time identity invariant signature.
@@ -96,22 +98,35 @@ originTimestamp — ISO 8601 timestamp of the origin event.
 
 originContext — optional human-readable context (e.g., “Leadership memo on AI accountability”).
 
+
 artifactBinding
+
 Defines how CAF‑1 attaches to the artifact.
 
 artifactId — stable identifier (hash, UUID, URI, or system-generated ID).
+
 artifactType — e.g., “pdf”, “docx”, “html”, “email”, “text”, “ai-output”.
+
 artifactState — optional descriptor (e.g., “original”, “exported”, “summarized”, “translated”).
 
+
 continuityMarkers
+
 Tracks major transformations without relying on provenance.
+
 transformationLog — human or system-generated entries describing transformations.
+
 regenerationEvents — entries describing AI or multi-agent regeneration.
 
+
 verificationModel
+
 Defines how a verifier checks CAF‑1 validity.
+
 modelRef — reference to the continuity verification model.
+
 validationRules — rules for verifying CS‑1, artifact binding, and continuity markers.
+
 
 ## 4. Binding Mechanisms
 CAF‑1 supports three binding modes. Engineers may implement one or all.
