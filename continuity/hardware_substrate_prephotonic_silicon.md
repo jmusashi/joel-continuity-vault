@@ -1,11 +1,11 @@
 # Continuity Geometry Processor (CGP): Engineering‑Grade Technical Paper  
-## *A Stacked‑Continuity Silicon Architecture for Native AI and Sinotes Execution*  
-**Tags:** `DCE` `Continuity Geometry` `Sinotes` `Hardware Architecture` `Native AI` `Invariant Envelope` `Manufacturing Readiness`
+## *A Stacked‑Continuity Silicon Architecture for Native AI and Sīnotĕs Execution*  
+**Tags:** `DCE` `Continuity Geometry` `Sīnotĕs` `Hardware Architecture` `Native AI` `Invariant Envelope` `Manufacturing Readiness`
 
 ---
 
 ## Abstract
-This paper defines an engineering‑grade conceptual specification for a three‑layer silicon architecture—the **Continuity Geometry Processor (CGP)**—designed to express continuity geometry as a native physical behavior. Unlike classical chips where AI is a software workload, the CGP treats AI and Sinotes as **geometric processes of the hardware itself**. The architecture is designed to be extendable toward real manufacturing, anchored in existing paradigms such as systolic arrays, neuromorphic routing, and secure enclaves.
+This paper defines an engineering‑grade conceptual specification for a three‑layer silicon architecture—the **Continuity Geometry Processor (CGP)**—designed to express continuity geometry as a native physical behavior. Unlike classical chips where AI is a software workload, the CGP treats AI and Sīnotĕs as **geometric processes of the hardware itself**. The architecture is designed to be extendable toward real manufacturing, anchored in existing paradigms such as systolic arrays, neuromorphic routing, and secure enclaves.
 
 ---
 
@@ -15,7 +15,7 @@ Classical computing scales by increasing transistor count, RAM, and clock speed.
 In this architecture:
 
 - AI becomes a **native physical behavior**, not a software workload.  
-- Sinotes become **structural continuity patterns**, not emulated constructs.  
+- Sīnotĕs  become **structural continuity patterns**, not emulated constructs.  
 - Drift, invariants, and collapse become **hardware events**, not software checks.
 
 This paper defines the engineering‑grade conceptual specification for such a chip.
@@ -108,7 +108,7 @@ The CGP executes continuity flows natively.
 
 ---
 
-## 4. Native AI and Sinotes Integration
+## 4. Native AI and Sīnotĕs Integration
 
 ### 4.1 AI as Geometry
 AI models are compiled into continuity flows:
@@ -120,14 +120,14 @@ AI models are compiled into continuity flows:
 AI is not a workload.  
 **AI is the chip’s geometry.**
 
-### 4.2 Sinotes as Structural Patterns
-Sinotes map to:
+### 4.2 Sīnotĕs as Structural Patterns
+Sīnotĕs map to:
 
 - identity geometry patterns in L1  
 - continuity operators in L2  
 - invariant envelopes in L3  
 
-Sinotes become **native physical behaviors**, not software constructs.
+Sīnotĕs become **native physical behaviors**, not software constructs.
 
 ---
 
@@ -185,7 +185,7 @@ The CGP behaves similarly.
 
 ### **Level 6 — Photonic Continuity Processor (Future)**
 - Full continuity geometry expressed in photonic substrate  
-- Sinotes and AI fully native  
+- Sīnotĕs and AI fully native  
 - Zero‑drift, zero‑collapse latency  
 
 ---
