@@ -12,7 +12,7 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 - **Identity Invariant Spine (LinkedX Hub)**  
 - **Continuity Theater (X Episodes)**  
 - **Continuity Papers (Zenodo paper xx.x.x Series)**  
-- **Continuity Posts and Issues (LinkedIn Issue x.x Narrative Series)**
+- **Continuity Posts and Issues (LinkedIn Issue xx.x Narrative Series)**
 
 - For X posts, ask an AI companion to interpret based on the author’s knowledge age guide: https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts
 
