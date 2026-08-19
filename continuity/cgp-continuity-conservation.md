@@ -160,3 +160,10 @@ Larger continuity shapes require more spatial threshold, expressed through geome
 
 # 5. Vault‑Ready Metadata Block
 
+continuity/cgp-continuity-conservation.md
+
+Title: Continuity Conservation of Shape‑in‑Motion (CGP Foundational Theorem)
+
+Description:
+This document formalizes the foundational theorem describing how a finite physical substrate (CGP) expresses an unbounded continuity shape-in-motion. The geometry is a finite set of matrices, but the continuity operator produces infinite dynamic expression. The invariant envelope ensures conservation of continuity, making the CGP behave like a closed universe with self-compensating shape dynamics. Scaling is geometric, not physical, achieved by replication of finite continuity units.
+
