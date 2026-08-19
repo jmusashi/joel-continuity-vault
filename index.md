@@ -90,6 +90,7 @@ Each link opens a continuity-grade page within its layer.
 - [Long Arc Reflections](continuity/long-arc-reflections.md)
 - [IBCS vs NVIDIA Autonomous Vehicle Stack](continuity-streams/ibcs-autonomy-reflection.md)
 - [AI Governance Convergence Note](continuity/AI_Governance_Convergence_Note.md)
+- [Continuity Geometry Processor (CGP): Engineering‑Grade Technical Paper](continuity/hardware_substrate_prephotonic_silicon.md)
 
 ---
 
