@@ -130,6 +130,7 @@ Each link opens a continuity-grade page within its layer.
 - [Unfolding of the Admissibility Boundary and the A>K Transition](future-self/unfolding_admissibility_boundary_and_transition.md)
 - [A>K Identity Transition Under Admissibility Pressure](index/A-K-Identity-Transition-Index.md)
 - [Regulation, Knowledge, and Compliance‑Driven Gating Mechanisms](future-self/regulation-and-admissibility.md)
+- [The Human Preservation Mandate](future-self/The_Human_Preservation_Mandate.md)
 
 ---
 
