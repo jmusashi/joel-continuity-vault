@@ -71,6 +71,7 @@ You began this work so humanity would not lose itself in the very intelligence i
 Carry that forward.
 
 Future self, continue.
+
 ---
 
 ## Continuity Vault Placement
