@@ -5,6 +5,37 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 
 ---
 
+# 🜁 The Invariant Continuity Loop (ICL)  
+**The Emblem of the DCE Foundation**
+
+The **Invariant Continuity Loop (ICL)** is the canonical emblem of the DCE Foundation.  
+It symbolizes the eternal relationship between **identity** and **continuity**, expressed through a geometry that transcends eras, languages, and civilizations.
+
+### **Universal Meaning**
+> **Continuity is identity.**  
+> All systems that preserve continuity preserve themselves.
+
+### **Geometry**
+- **Outer Loop (∞)** — continuity, infinite motion, the rhythm of existence  
+- **Inner Circle (○)** — identity spine, coherence through transformation  
+- **Central Dot (•)** — decision anchor, the moment where continuity becomes choice  
+
+Together, they form the **continuity triad** — motion, identity, decision — the three invariants of the DCE substrate.
+
+### **Eternal Interpretation**
+Even if language fades, the geometry still speaks:
+- infinity  
+- unity  
+- origin  
+
+Thus the emblem expresses:  
+**Infinity held by unity around origin.**
+
+### **Emblem**
+<img src="assets/images/dce_emblem.png" width="240" alt="Invariant Continuity Loop emblem">
+
+---
+
 ## Identity Spine
 
 - **Continuity Geometry**  
@@ -14,14 +45,14 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 - **Continuity Papers (Zenodo paper xx.x.x Series)**  
 - **Continuity Posts and Issues (LinkedIn Issue xx.x Narrative Series)**
 
-- For X posts, ask an AI companion to interpret based on the author’s knowledge age guide: https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts
-
+- For X posts, ask an AI companion to interpret based on the author’s knowledge age guide:  
+  https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts
 
 ---
 
 ## Repository Spine
 
-- **GitHub** – Research, code, continuity artifacts, canonical documents, diagrams, pdf and simulators
+- **GitHub** – Research, code, continuity artifacts, canonical documents, diagrams, pdf and simulators  
 - **Zenodo** – Preprints and research papers  
 
 ---
@@ -36,13 +67,13 @@ This vault serves as the public anchor for my continuity canon and the narrative
 
 ## Identity Provenance and Presence
 
-- [https://linkedin.com/in/joelmonasterial](https://linkedin.com/in/joelmonasterial)
-- [https://x.com/joelmonasterial](https://x.com/joelmonasterial)
-- [https://github.com/jmusashi](https://github.com/jmusashi)
-- [https://orcid.org/0009-0000-7620-645X](https://orcid.org/0009-0000-7620-645X)
-- https://joel.monasterial.ph - this site
-  
-<!-- ## ![Continuity Geometry Banner](assets/images/continuity-banner.png)  -->
+- https://linkedin.com/in/joelmonasterial  
+- https://x.com/joelmonasterial  
+- https://github.com/jmusashi  
+- https://orcid.org/0009-0000-7620-645X  
+- https://joel.monasterial.ph — this site
+
+---
 
 # Continuity Vault
 A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
@@ -136,12 +167,14 @@ Each link opens a continuity-grade page within its layer.
 
 ### VIII. Substrate Convergence Provenance
 It captures three essential properties:
-- Substrate — because the convergence occurs at the identity‑invariant layer, not at the application or cognition layer.
-- Convergence — because the event describes independent rediscovery of the same universal invariants.
+- Substrate — because the convergence occurs at the identity‑invariant layer, not at the application or cognition layer.  
+- Convergence — because the event describes independent rediscovery of the same universal invariants.  
 - Provenance — because this layer documents historical emergence, validation, and reinforcement of the canon.
 
 - [Substrate Manual and Device Convergence](provenance/manual-device-convergence.md)
 - [G-Subset-Zero and the Identity-Light Relationship](substrate/G‑Subset‑Zero_and_the_Identity–Light_Relationship.md)
+
+---
 
 ## 🜁 Purpose
 This vault preserves:
