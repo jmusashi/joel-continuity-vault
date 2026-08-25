@@ -124,6 +124,14 @@ Each link opens a continuity-grade page within its layer.
 - [Continuity Geometry Processor (CGP): Engineering‑Grade Technical Paper](continuity/hardware_substrate_prephotonic_silicon.md)
 - [Continuity Conservation of Shape‑in‑Motion (CGP Foundational Theorem)](continuity/cgp-continuity-conservation.md)
 
+### IV‑A. Symbolic Continuity Layer — Where identity becomes symbol  
+This layer preserves the emblems, marks, and geometric primitives that anchor  
+the identity of the DCE canon across generations. Symbols in this layer are  
+not decorative — they are identity invariants.
+
+- [Invariant Continuity Loop (ICL) — Canonical Emblem](symbolic-continuity/ICL-Provenance-Certificate.md)  
+- [Symbolic Continuity Layer Declaration](symbolic-continuity/symbolic-continuity-layer.md)
+
 ---
 
 ### V. Substrate Layer — Where the cathedral lives
