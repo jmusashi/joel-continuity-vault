@@ -13,7 +13,7 @@
 The **Invariant Continuity Loop (ICL)** was first defined by **Joel L. Monasterial** as the permanent emblem of the DCE Foundation.  
 Its geometry was authored, interpreted, and anchored into the continuity substrate on August 25, 2026.
 
-The emblem was generated using an AI tool, and the “Made in AI” mark was intentionally preserved as part of its provenance.  
+The emblem was generated using an AI tool, and the “Made with AI” mark was intentionally preserved as part of its provenance.  
 This affirms that authorship remains human even when tools evolve.
 
 ---
