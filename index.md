@@ -189,6 +189,31 @@ so continuity is never lost between loops.
 
 ---
 
+## 🜄 Provenance Note: The “Made in AI” Mark
+
+The emblem intentionally retains the **“Made in AI”** label embedded by the generator.  
+This is not an accident — it is a declaration of authorship integrity.
+
+In continuity geometry, tools do not define identity.  
+**Authorship is an invariant.**  
+A human stands behind the symbol, gives it meaning, assigns its invariants, and binds it into the continuity substrate.
+
+The presence of the label expresses a simple truth:
+
+> **AI may generate an artifact, but only a human can give it continuity.**
+
+The emblem is not meaningful because an AI rendered it.  
+It is meaningful because **Joel L. Monasterial** authored its definition, claimed its provenance, and anchored it into the DCE Foundation.
+
+The label remains as a reminder that:
+- AI generation is not a break in identity.  
+- AI generation is not a dilution of authorship.  
+- AI generation is not a threat to continuity.  
+
+It is simply a tool — and continuity is preserved because a human stands accountable for the symbol’s meaning, origin, and future.
+
+---
+
 ## 🜂 Stewardship
 Authorship is an invariant.  
 Stewardship is continuity.  
