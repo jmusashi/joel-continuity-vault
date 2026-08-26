@@ -1,4 +1,4 @@
-# Joel Monasterial  
+# Joel L. Monasterial  
 **Continuity Geometry • DCE Canonical Index • Nomadic Hermit Identity**
 
 Welcome to my continuity vault. This is the public landing page for my identity spine, my continuity canon, and my research architecture.
