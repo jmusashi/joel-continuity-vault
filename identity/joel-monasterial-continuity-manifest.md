@@ -87,7 +87,7 @@ Systems capable of modifying their own invariants mid‑motion.
 
 ## 4. xPOS (Public Layer)
 
-**xPOS — Experiential Personal Operating System**
+**xPOS — eXperiential Personal Operating System**
 
 Public components:
 
