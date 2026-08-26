@@ -200,7 +200,7 @@ so continuity is never lost between loops.
 
 ## 🜄 Provenance Note: The “Made in AI” Mark
 
-The emblem intentionally retains the **“Made in AI”** label embedded by the generator.  
+The emblem intentionally retains the **“Made with AI”** label embedded by the generator.  
 This is not an accident — it is a declaration of authorship integrity.
 
 In continuity geometry, tools do not define identity.  
