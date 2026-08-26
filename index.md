@@ -198,7 +198,7 @@ so continuity is never lost between loops.
 
 ---
 
-## 🜄 Provenance Note: The “Made in AI” Mark
+## 🜄 Provenance Note: The “Made with AI” Mark
 
 The emblem intentionally retains the **“Made with AI”** label embedded by the generator.  
 This is not an accident — it is a declaration of authorship integrity.
