@@ -99,6 +99,7 @@ Each link opens a continuity-grade page within its layer.
 - [The LinkedX Hub Identity Spine](identity/linkedx-hub-identity-spine.md)
 - [The Entire Identity Regime of the Digital World is Obsolete](identity/The_entire_identity_regime_of_the_digital_world_is_obsolete.md)
 - [Joel Monasterial — Continuity Manifest](identity/joel-monasterial-continuity-manifest.md)
+- [The Quiet Guilt of AI-Assisted Authorship](provenance/authorship-provenance/ai-detection-guilt.md)
 
 ---
 
