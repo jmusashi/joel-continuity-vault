@@ -1,4 +1,4 @@
-# continuity-vault / provenance / authorship-provenance  
+# provenance / authorship-provenance  
 # File: ai-detection-guilt.md
 # Date: August 27, 2026
 
