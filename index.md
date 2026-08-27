@@ -172,6 +172,7 @@ not decorative — they are identity invariants.
 - [A>K Identity Transition Under Admissibility Pressure](index/A-K-Identity-Transition-Index.md)
 - [Regulation, Knowledge, and Compliance‑Driven Gating Mechanisms](future-self/regulation-and-admissibility.md)
 - [The Human Preservation Mandate](future-self/The_Human_Preservation_Mandate.md)
+- [The Collapse That Begins When Origin Is Removed](future-self/future-self-invariants/future-self-origin-collapse.md)
 
 ---
 
