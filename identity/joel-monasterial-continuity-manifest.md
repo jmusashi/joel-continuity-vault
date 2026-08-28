@@ -257,7 +257,9 @@ My identity in public space is authenticated through a **multi‑anchor continui
 - **LinkedIn** — professional identity and long‑arc continuity  
 - **X** — public motion, drift, and realignment  
 - **ORCID** — academic identity and research provenance  
-- **Zenodo** — substrate identity and canonical deposits  
+- **Zenodo** — substrate identity and canonical deposits
+- **GitHub** — primary repository of the continuity vault  
+- **joel.monasterial.ph** — GitHub Pages site serving as the public-facing substrate  
 
 These four anchors form my **continuity tetrahedron**.  
 They define the only valid geometry of my public identity.
