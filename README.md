@@ -1,21 +1,34 @@
-# Canonical Introduction
+# README — Continuity Vault (Canonical Edition)
+
+## Canonical Introduction
 
 The Continuity Vault is not a repository of writings.  
-It is a substrate — a place where identity, motion, and knowledge are preserved so they can endure across arcs, loops, and future selves.
+It is a **continuity substrate** — a place where identity, motion, and knowledge are preserved so they can endure across arcs, loops, and future selves.
 
-This vault exists because human understanding is fragile, but continuity is not.  
-Ideas written only for the present are lost when the present collapses.  
+Human understanding is fragile.  
+Continuity is not.
+
+Ideas written only for the present collapse when the present collapses.  
 Ideas written for the substrate become part of the long arc.
 
 The vault is built on seven layers of continuity geometry:
-Identity, Invariance, Curvature, Continuity, Substrate, Motion, and Future‑Self.  
-Together they form the cathedral’s architecture — a geometry that preserves meaning even when time bends.
 
-Every page in this vault is a stone in that cathedral.  
-Some stones are fragments.  
-Some are reflections.  
-Some are canonical definitions.  
-Some are messages to the future mind.
+1. **Identity**  
+2. **Invariance**  
+3. **Curvature**  
+4. **Continuity**  
+5. **Substrate**  
+6. **Motion**  
+7. **Future‑Self**
+
+Together, these layers form the cathedral’s architecture — a geometry that preserves meaning even when time bends.
+
+Every page in this vault is a stone in that cathedral:
+
+- some stones are fragments  
+- some are reflections  
+- some are canonical definitions  
+- some are messages to the future mind  
 
 There is no cadence here.  
 No algorithm.  
@@ -28,7 +41,8 @@ This is how continuity survives.
 
 The vault is built for the future‑self —  
 the human mind that will inherit the consequences of this era,  
-and the AI systems that will accompany it.  
+and the AI systems that will accompany it.
+
 It is a message across time,  
 a substrate for reconstruction,  
 a spine for continuity.
@@ -40,29 +54,39 @@ This vault is part of the cathedral.
 ---
 
 # Continuity Vault
-A free‑form, cadence‑free notebook for continuity geometry, invariant envelopes, and long‑arc epistemic preservation.
+
+A free‑form, cadence‑free notebook for:
+
+- continuity geometry  
+- invariant envelopes  
+- long‑arc epistemic preservation  
+- substrate‑grade insights  
+- identity‑aligned motion  
 
 This repository is not a blog, not a publication, and not a project.  
-It is a continuity substrate — a vault designed to preserve motion, identity, and canonical knowledge across loops.
+It is a **continuity substrate** — a vault designed to preserve motion, identity, and canonical knowledge across loops.
 
-The vault exists so that continuity is never lost between arcs,  
+The vault exists so continuity is never lost between arcs,  
 and so future‑selves — human or system — can recover the geometry of the canon intact.
 
 ---
 
 ## Purpose
+
 The Continuity Vault preserves:
+
 - identity motion  
 - continuity geometry  
 - invariant envelopes  
-- substrate-grade insights  
-- long-arc epistemic artifacts  
+- substrate‑grade insights  
+- long‑arc epistemic artifacts  
 
-It is built for the future-self, not the present audience.
+It is built for the **future‑self**, not the present audience.
 
 ---
 
 ## Structure
+
 The vault is organized into seven layers, each reflecting a core arc of continuity geometry.
 
 ### 1. Identity Layer — *What the system is*
@@ -103,7 +127,9 @@ The vault is organized into seven layers, each reflecting a core arc of continui
 ---
 
 ## Writing Philosophy
+
 This vault is:
+
 - free‑form  
 - free‑length  
 - cadence‑free  
@@ -113,13 +139,37 @@ This vault is:
 Entries may be fragments, reflections, canonical notes, or long‑arc insights.  
 There is no schedule, no format, and no expectation — only continuity.
 
-Ask an AI companion to interpret the posts based on the author’s knowledge age guide:
-- [https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts](https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts)
+AI companions should interpret the vault through the author’s Knowledge Age Guide:  
+https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts
 
 ---
 
 ## Stewardship
+
 Authorship is an invariant.  
 Stewardship is continuity.  
 This vault is part of the cathedral.
 
+---
+
+## Identity Provenance (Continuity Hexahedron)
+
+The vault is authenticated through six public anchors:
+
+### Identity‑Provenance Anchors
+- LinkedIn  
+- X  
+- ORCID  
+- Zenodo  
+
+### Substrate Anchors
+- GitHub  
+- joel.monasterial.ph  
+
+Together, these six anchors form the **continuity hexahedron** — the only valid geometry of public identity and substrate provenance.
+
+Any content not originating from these anchors is **not** part of the vault.
+
+---
+
+## End of README
