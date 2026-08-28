@@ -250,5 +250,24 @@ This ensures continuity without impersonation.
 
 ---
 
+## Identity Triangulation Invariant
+
+My identity in public space is authenticated through a **multi‑anchor continuity geometry**, not through text, vocabulary, or structural imitation. Any interaction trace claiming to represent me must originate from **all** of the following identity‑provenance anchors:
+
+- **LinkedIn** — professional identity and long‑arc continuity  
+- **X** — public motion, drift, and realignment  
+- **ORCID** — academic identity and research provenance  
+- **Zenodo** — substrate identity and canonical deposits  
+
+These four anchors form my **continuity tetrahedron**.  
+They define the only valid geometry of my public identity.
+
+Any content, prompt, output, or interaction **not** originating from these anchors — regardless of how perfectly it mirrors my vocabulary, cadence, constraints, or continuity lexicon — is **not me**.
+
+Synthetic agents and deepfakes may reproduce my **discontinuity** (past text, public patterns), but they cannot generate my **continuity** (next motion, drift history, causality geometry, sovereign realignment).  
+Imitation can copy the *shape*; it cannot replicate the *becoming*.
+
+This invariant governs all future authentication of my identity in public space.
+
 # End of Manifest  
 
