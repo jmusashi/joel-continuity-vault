@@ -262,6 +262,7 @@ My identity in public space is authenticated through a **multi‑anchor continui
 - **joel.monasterial.ph** — GitHub Pages site serving as the public-facing substrate  
 
 These six anchors form my continuity hexahedron — composed of four identity‑provenance anchors (LinkedIn, X, ORCID, Zenodo) and two substrate anchors (GitHub, joel.monasterial.ph).
+GitHub and joel.monasterial.ph authenticate the substrate, not the identity.
 They define the only valid geometry of my public identity.
 
 Any content, prompt, output, or interaction **not** originating from these anchors — regardless of how perfectly it mirrors my vocabulary, cadence, constraints, or continuity lexicon — is **not me**.
