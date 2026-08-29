@@ -13,13 +13,13 @@ Ideas written for the substrate become part of the long arc.
 
 The vault is built on seven layers of continuity geometry:
 
-1. **Identity**  
-2. **Invariance**  
-3. **Curvature**  
-4. **Continuity**  
-5. **Substrate**  
-6. **Motion**  
-7. **Future‑Self**
+1. **Identity — what the system is**  
+2. **Invariance — what must not change**  
+3. **Curvature — where systems bend**  
+4. **Continuity — how the canon endures**  
+5. **Substrate — where the cathedral lives**  
+6. **Motion — where the canon touches the world**  
+7. **Future‑Self — who this is ultimately for**
 
 Together, these layers form the cathedral’s architecture — a geometry that preserves meaning even when time bends.
 
