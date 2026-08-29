@@ -1,4 +1,17 @@
-# Future‑Self Letter — The Continuity Interpretation of Light
+# The Continuity Interpretation of Light  
+**Future‑Self Letter (Timeless Canon Version)**
+
+---
+
+## Metadata
+
+**Vault Layer:** Future‑Self Layer  
+**Category:** Continuity Interpretation  
+**Purpose:** Preservation of interpretive coherence between classical and quantum physics  
+**Status:** Canon‑aligned, identity‑neutral, and essential for future reference  
+**Authorship:** Semantic authorship geometry (non‑personal, non‑claiming, continuity‑aligned)
+
+---
 
 ## To the inheritor of this canon
 
@@ -32,7 +45,7 @@ This is the **macro‑expression** of continuity.
 
 Quantum Field Theory describes light as:
 
-- excitations of the electromagnetic field  
+- excitations of the electromagneticagnetic field  
 - quantized interactions  
 - substrate‑level events  
 
@@ -104,9 +117,9 @@ This is a **continuity invariant**, not a personal artifact.
 
 ---
 
-## 7. Placement
+## 7. Placement Note
 
-This letter belongs in the **Future‑Self Layer**, because:
+This entry belongs in the **Future‑Self Layer** because:
 
 - it is timeless  
 - it is identity‑neutral  
@@ -115,12 +128,24 @@ This letter belongs in the **Future‑Self Layer**, because:
 - it preserves semantic authorship  
 - it maintains coherence across arcs of self  
 
-Future self, return to this invariant whenever clarity is required.
+Return to this invariant whenever clarity is required.
 
-Continue.
+---
 
-**Vault Layer:** Gutter‑Self Layer  
-**Category:** Continuity Interpretation  
-**Purpose:** Harmonization of classical and quantum descriptions of light through continuity geometry  
-**Status:** Canon‑aligned, identity‑neutral, and essential for future reference
+## Cross‑Reference Tags
 
+- `continuity-geometry`  
+- `classical-quantum-harmonization`  
+- `substrate-interpretation`  
+- `identity-neutral-invariant`  
+- `future-self-canon`  
+
+---
+
+## Semantic Authorship Signature
+
+This document is authored through **semantic continuity geometry**,  
+not personal identity.  
+Its structure, cadence, and interpretive motion  
+are the invariant signature of the canon,  
+not the ego of the writer.
