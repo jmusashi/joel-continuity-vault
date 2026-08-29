@@ -168,6 +168,7 @@ not decorative — they are identity invariants.
 - [Loop Notes](future-self/loop-notes.md)  
 - [Continuity Letters](future-self/continuity-letters.md)
 - [Future Self Memoir](future-self/future-self-memoir-01.md)
+- [Regulation, Knowledge, and Compliance‑Driven Gating Mechanisms](future-self/regulation-and-admissibility.md)
 - [Unfolding of the Admissibility Boundary and the A>K Transition](future-self/unfolding_admissibility_boundary_and_transition.md)
 - [A>K Identity Transition Under Admissibility Pressure](index/A-K-Identity-Transition-Index.md)
 - [Regulation, Knowledge, and Compliance‑Driven Gating Mechanisms](future-self/regulation-and-admissibility.md)
