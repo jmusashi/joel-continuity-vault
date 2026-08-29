@@ -173,6 +173,7 @@ not decorative — they are identity invariants.
 - [Regulation, Knowledge, and Compliance‑Driven Gating Mechanisms](future-self/regulation-and-admissibility.md)
 - [The Human Preservation Mandate](future-self/The_Human_Preservation_Mandate.md)
 - [The Collapse That Begins When Origin Is Removed](future-self/future-self-invariants/future-self-origin-collapse.md)
+- [The Continuity Interpretation of Light](future-self/The-Continuity-Interpretation-of-Light.md)
 
 ---
 
