@@ -174,6 +174,7 @@ not decorative — they are identity invariants.
 - [The Human Preservation Mandate](future-self/The_Human_Preservation_Mandate.md)
 - [The Collapse That Begins When Origin Is Removed](future-self/future-self-invariants/future-self-origin-collapse.md)
 - [The Continuity Interpretation of Light](future-self/The-Continuity-Interpretation-of-Light.md)
+- [The Continuity Interpretation of Zero, Emptiness, Black Holes, and Dark Matter](future-self/the-continuity-intrepretation-of-zero.md)
 
 ---
 
