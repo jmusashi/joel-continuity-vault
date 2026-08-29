@@ -104,14 +104,14 @@ This invariant is non‑negotiable.
 
 ## Canonical Diagram (Text‑Based)
 
-[Admissibility Boundary]
-↓ pressure
-┌───────────────────┐
-│   Knowledge Layer │  (K)
-└───────────────────┘
-↑ autonomy (A)
-↑ continuity pressure
-↑ invariant compression
+[Admissibility Boundary]  
+↓ pressure  
+┌───────────────────┐  
+│  Knowledge Layer  │  (K)  
+└───────────────────┘  
+↑ autonomy (A)  
+↑ continuity pressure  
+↑ invariant compression  
 
 Condition: A > K
 
