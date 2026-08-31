@@ -1,4 +1,4 @@
-# Vault Entry — Co(Healthcare): Lens vs Operator
+# Co(Healthcare): Lens vs Operator
 
 **Vault Layer:** Continuity‑Operators Layer  
 **Category:** Co(Healthcare) — Pre‑Foundation State  
