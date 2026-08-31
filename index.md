@@ -175,6 +175,7 @@ not decorative — they are identity invariants.
 - [The Collapse That Begins When Origin Is Removed](future-self/future-self-invariants/future-self-origin-collapse.md)
 - [The Continuity Interpretation of Light](future-self/The-Continuity-Interpretation-of-Light.md)
 - [The Continuity Interpretation of Zero, Emptiness, Black Holes, and Dark Matter](future-self/the-continuity-intrepretation-of-zero.md)
+- [Co(Healthcare): Lens vs Operator](future-self/Co(Healthcare)-Lens-vs-Operator.md)
 
 ---
 
