@@ -3,7 +3,7 @@
 **Vault Layer:** Continuity‑Operators Layer  
 **Category:** Co(Healthcare) — Pre‑Foundation State  
 **Author:** Joel Monasterial  
-**Date:** 2026‑08‑31  
+**Date:** August 31, 2026  
 **Status:** Canon‑Aligned Substrate Note  
 **Purpose:** Preserve the invariant that Co(Healthcare) is not yet an operator; it is a continuity lens until the DCE Foundation exists.
 
