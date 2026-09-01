@@ -125,6 +125,7 @@ Each link opens a continuity-grade page within its layer.
 - [AI Governance Convergence Note](continuity/AI_Governance_Convergence_Note.md)
 - [Continuity Geometry Processor (CGP): Engineering‑Grade Technical Paper](continuity/hardware_substrate_prephotonic_silicon.md)
 - [Continuity Conservation of Shape‑in‑Motion (CGP Foundational Theorem)](continuity/cgp-continuity-conservation.md)
+- [Randomness and Infinity in Continuity Geometry](continuity/randomness-and-infinity-in-continuity-geometry.md)
 
 ### IV‑A. Symbolic Continuity Layer — Where identity becomes symbol  
 This layer preserves the emblems, marks, and geometric primitives that anchor  
