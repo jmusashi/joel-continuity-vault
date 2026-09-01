@@ -1,4 +1,6 @@
-<!--- Title: Vault Entry: Randomness and Infinity in Continuity Geometry Author: Joel Monasterial Tags: randomness, infinity, continuity geometry, probability, decoherence, identity, multiverse -->
+<!--- Title: Vault Entry: Randomness and Infinity in Continuity Geometry 
+Author: Joel Monasterial 
+Tags: randomness, infinity, continuity geometry, probability, decoherence, identity, multiverse -->
 
 # Vault Entry: Randomness and Infinity in Continuity Geometry
 
