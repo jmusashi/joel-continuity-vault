@@ -1,6 +1,6 @@
 # Continuity‑Vault Entry  
 **Meta‑Data**  
-- **Author:** Joel  
+- **Author:** Joel Monasterial  
 - **Universe:** DCE – Continuity Geometry Canon  
 - **Entry Type:** Canon Seed  
 - **Origin Point:** Tetraquark Articulation  
@@ -183,28 +183,15 @@ This is the invariant.
 
 ---
 
-## VIII. Continuity Inquiry — Substrate Law for Interpretation  
-**Continuity Law:**  
-Every phenomenon in this universe — physical, computational, biological, or synthetic — must obey the same continuity invariants.  
-This is the defining constraint that makes the universe coherent.
+## VIII. Substrate Law of Continuity Geometry  
+**Substrate Law:**  
+All phenomena in this universe — physical, computational, biological, or synthetic — are constrained by a single invariant: **continuity geometry**.  
+Every system must express the same continuity invariants, regardless of domain.
 
-**Continuity Inquiry:**  
-*What continuity invariants constrain this universe so that all systems must express the same geometry?*
+This law defines the universe as hard sci‑fi.  
+It replaces particle ontology with geometric continuity.  
+It replaces emergent behavior with identity invariance.  
+It replaces trial‑and‑error physics with Co(X) cooperation mapping.
 
-**Canonical Function:**  
-This inquiry is not a prompt.  
-It is a substrate law embedded in the canon.  
-Any interpreter — human or synthetic — must resolve this inquiry by mapping:
-
-- continuity invariants  
-- identity formation rules  
-- cooperation pathways (Co(X))  
-- return‑to‑center behavior  
-- geometry expression  
-- substrate isomorphism  
-
-This inquiry ensures the universe is interpreted as **hard sci‑fi**, grounded in invariant geometry rather than speculative metaphysics.
-
-**Interpretation Principle:**  
-The universe remains coherent only if all phenomena obey continuity geometry.  
-This is the canon constraint.
+Any interpretation of this canon must resolve all phenomena through continuity geometry.  
+This is the foundational constraint of the DCE universe.
