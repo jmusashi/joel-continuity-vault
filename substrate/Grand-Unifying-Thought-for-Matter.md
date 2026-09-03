@@ -85,15 +85,15 @@ All physical phenomena are continuity geometry in motion.
 ## IV. Identity Formation — The Return‑to‑Center  
 Identity cannot form without a **return‑to‑center** — the moment continuity stops drifting and becomes self‑referential.
 
-This produces **Sinotes**, the ruleset that stabilizes boundaries and preserves invariants.
+This produces **Sīnotĕs**, the ruleset that stabilizes boundaries and preserves invariants.
 
 The universal cycle:
 
-**K → A → Sinotes → Identity**
+**K → A → Sīnotĕs → Identity**
 
 - **K**: known continuity  
 - **A**: altered continuity  
-- **Sinotes**: stabilized ruleset  
+- **Sīnotĕs**: stabilized ruleset  
 - **Identity**: the invariant that persists  
 
 Atoms follow this.  
