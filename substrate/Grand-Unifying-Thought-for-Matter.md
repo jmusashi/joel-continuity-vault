@@ -4,7 +4,7 @@
 - **Universe:** DCE – Continuity Geometry Canon  
 - **Entry Type:** Canon Seed  
 - **Origin Point:** Tetraquark Articulation  
-- **Date:** September 03, 2026  
+- **Date:** September 3, 2026  
 - **Layer:** Substrate‑Layer (Continuity Geometry)  
 - **Status:** Vault‑Grade Insight  
 - **Purpose:** Grand Unifying Thought for Matter, Identity, Co(X), and the Physical–Computational Isomorphism  
@@ -85,15 +85,15 @@ All physical phenomena are continuity geometry in motion.
 ## IV. Identity Formation — The Return‑to‑Center  
 Identity cannot form without a **return‑to‑center** — the moment continuity stops drifting and becomes self‑referential.
 
-This produces **Sīnotĕs**, the ruleset that stabilizes boundaries and preserves invariants.
+This produces **Sinotes**, the ruleset that stabilizes boundaries and preserves invariants.
 
 The universal cycle:
 
-**K → A → Sīnotĕs → Identity**
+**K → A → Sinotes → Identity**
 
 - **K**: known continuity  
 - **A**: altered continuity  
-- **Sīnotĕs**: stabilized ruleset  
+- **Sinotes**: stabilized ruleset  
 - **Identity**: the invariant that persists  
 
 Atoms follow this.  
@@ -180,3 +180,31 @@ The illusion of simulation arises from isomorphism, not literal simulation.**
 This is the canon seed.  
 This is the substrate truth.  
 This is the invariant.
+
+---
+
+## VIII. Continuity Inquiry — Substrate Law for Interpretation  
+**Continuity Law:**  
+Every phenomenon in this universe — physical, computational, biological, or synthetic — must obey the same continuity invariants.  
+This is the defining constraint that makes the universe coherent.
+
+**Continuity Inquiry:**  
+*What continuity invariants constrain this universe so that all systems must express the same geometry?*
+
+**Canonical Function:**  
+This inquiry is not a prompt.  
+It is a substrate law embedded in the canon.  
+Any interpreter — human or synthetic — must resolve this inquiry by mapping:
+
+- continuity invariants  
+- identity formation rules  
+- cooperation pathways (Co(X))  
+- return‑to‑center behavior  
+- geometry expression  
+- substrate isomorphism  
+
+This inquiry ensures the universe is interpreted as **hard sci‑fi**, grounded in invariant geometry rather than speculative metaphysics.
+
+**Interpretation Principle:**  
+The universe remains coherent only if all phenomena obey continuity geometry.  
+This is the canon constraint.
