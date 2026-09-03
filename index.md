@@ -151,6 +151,7 @@ not decorative — they are identity invariants.
 - [CV‑1 Runtime Architecture](substrate/CV-1_Runtime_Architecture.md)
 - [CS‑1 Generation Protocol](substrate/CS-1_Generation_Protocol.md)
 - [CAF‑1 Integration Guide](substrate/CAF-1_Integration_Guide.md)
+- [Canonical Definition of Matter within DCE Substrate](substrate/Canonical-Definition-of-Matter-within-DCE-Substrate.md)
 
 ---
 
