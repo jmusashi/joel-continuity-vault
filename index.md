@@ -153,6 +153,7 @@ not decorative — they are identity invariants.
 - [CS‑1 Generation Protocol](substrate/CS-1_Generation_Protocol.md)
 - [CAF‑1 Integration Guide](substrate/CAF-1_Integration_Guide.md)
 - [Canonical Definition of Matter within DCE Substrate](substrate/Canonical-Definition-of-Matter-within-DCE-Substrate.md)
+- [Canonical relationship between the Continuity Geometry Processor (CGP) and Neuromorphic Computing (NC)](continuity-geometry/substrate-architecture/cgp-foundations/cgp-nc-stack-relationship.md)
 
 ---
 
