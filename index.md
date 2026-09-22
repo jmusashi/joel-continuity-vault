@@ -154,6 +154,7 @@ not decorative — they are identity invariants.
 - [CAF‑1 Integration Guide](substrate/CAF-1_Integration_Guide.md)
 - [Canonical Definition of Matter within DCE Substrate](substrate/Canonical-Definition-of-Matter-within-DCE-Substrate.md)
 - [Canonical relationship between the Continuity Geometry Processor (CGP) and Neuromorphic Computing (NC)](continuity-geometry/substrate-architecture/cgp-foundations/cgp-nc-stack-relationship.md)
+- [Universal vs. Domain Notation in the Cyber–Fusion–QC Triad](substrate/Universal-vs-Domain-Notation-in-the-Cyber–Fusion–QC-Triad.md)
 
 ---
 
