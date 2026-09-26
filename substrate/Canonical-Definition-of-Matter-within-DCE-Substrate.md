@@ -71,12 +71,12 @@ Continuity describes persistence through that transformation.
 Therefore:
 
 $$
-\text{Identity Primitive}
+I_{\text{primitive}}
 \neq
 \text{Continuity}
 $$
 
-and:
+The relationship is instead:
 
 $$
 \text{Continuity}
@@ -84,9 +84,9 @@ $$
 \text{Persistence of Identity Through Change}
 $$
 
-The primitive establishes identity.
+The primitive establishes ontological identity.
 
-Continuity reveals its persistence.
+Continuity reveals its persistence through transformation.
 
 ---
 
@@ -173,6 +173,10 @@ $$
 
 The persistence of the resulting manifestation can then be examined through Continuity Geometry.
 
+Matter is therefore not the origin of identity.
+
+It is one domain through which identity may become manifest under motion and transformation.
+
 ---
 
 ## IV. Manifested Identity: The Return-to-Center
@@ -224,11 +228,33 @@ The return-to-center process therefore concerns stabilization of manifestation.
 
 The center is not where identity is created.
 
-The center is where persistence becomes recoverable.
+The center is where persistence becomes recoverable through manifestation.
 
 Thus:
 
 > **Return-to-center stabilizes manifested identity; it does not originate the Identity Primitive.**
+
+This also resolves the meaning of becoming.
+
+Becoming is not the emergence of identity from non-identity.
+
+Becoming is transformation in the manifestation of an identity whose primitive remains logically prior to the transformation.
+
+Thus:
+
+$$
+I_{\text{primitive}}
+\rightarrow
+I_{\text{manifested}}
+\rightarrow
+\text{Transformation}
+\rightarrow
+I'_{\text{manifested}}
+$$
+
+The manifestation may change.
+
+The Identity Primitive is not thereby recreated.
 
 ---
 
@@ -281,7 +307,33 @@ Transformation does not produce the invariant.
 
 Transformation reveals persistence of the invariant.
 
----
+Regeneration therefore also acts on manifestation.
+
+Where disruption produces a continuity transition:
+
+$$
+\kappa > \Lambda
+\Rightarrow
+\text{Continuity Transition}
+$$
+
+regeneration may establish another viable manifested state:
+
+$$
+R
+\rightarrow
+\Lambda'
+\rightarrow
+I'_{\text{manifested}}
+$$
+
+without requiring recreation of:
+
+$$
+I_{\text{primitive}}
+$$
+
+The Equation of Identity therefore governs persistence and recovery across manifested transformation, while the Identity Primitive remains logically prior to the trajectory.
 
 ## VI. Co(X): Cooperation Across Manifested Identity
 
@@ -327,7 +379,7 @@ $$
 
 concerns persistence of manifested self-identity.
 
-Therefore, Co(X) operates **downstream of the Identity Primitive**.
+Therefore, Co(X) operates downstream of the Identity Primitive.
 
 It does not determine whether identity exists.
 
@@ -402,4 +454,175 @@ Matter may carry, express, or instantiate a manifested identity without being th
 This produces the hierarchy:
 
 $$
-I_{\text
+I_{\text{primitive}}
+\rightarrow
+\text{Energy-in-Motion}
+\rightarrow
+\text{Geometry}
+\rightarrow
+\text{Matter}
+\rightarrow
+I_{\text{manifested}}
+$$
+
+Continuity describes persistence across changes within this manifested trajectory.
+
+Matter therefore participates in continuity without becoming the source of identity.
+
+---
+
+## IX. Interpretive Closure
+
+The earlier substrate formulation placed continuity at the beginning:
+
+$$
+\text{Continuity}
+\rightarrow
+\text{Geometry}
+\rightarrow
+\text{Matter}
+\rightarrow
+\text{Identity}
+$$
+
+The Identity Primitive refinement changes that ordering.
+
+The revised architecture is:
+
+$$
+\boxed{
+I_{\text{primitive}}
+\rightarrow
+\text{Motion}
+\rightarrow
+\text{Geometry}
+\rightarrow
+\text{Matter}
+\rightarrow
+I_{\text{manifested}}
+}
+$$
+
+followed by:
+
+$$
+I_{\text{manifested}}
+\rightarrow
+\text{Transformation}
+\rightarrow
+\text{Continuity}
+\rightarrow
+\text{Invariant Recovery}
+$$
+
+This change does not discard the established matter, geometry, motion, or continuity relationships.
+
+It clarifies their ontological position.
+
+Identity is logically prior.
+
+Motion produces transformation.
+
+Geometry structures manifestation.
+
+Matter is energy-in-motion expressed through that geometry.
+
+Continuity describes persistence across transformation.
+
+The Equation of Identity recovers or stabilizes the invariant through the manifested trajectory.
+
+---
+
+## X. Revised Substrate Law
+
+**Substrate Law:**
+
+Identity is primitive.
+
+Any manifested system undergoing transformation may be examined according to the continuity of its invariants.
+
+Continuity Geometry governs the structure of those transformations.
+
+The Equation of Identity governs persistence through them.
+
+Matter provides one physical domain in which manifested geometry can be examined.
+
+Co(X) describes continuity relations across manifested identities and domains.
+
+Therefore:
+
+$$
+I_{\text{primitive}}
+\rightarrow
+I_{\text{manifested}}
+\rightarrow
+Co(X)
+\rightarrow
+\text{Transformation}
+\rightarrow
+\text{Invariant Recovery}
+$$
+
+The final recovery points toward the same primitive from which manifestation began.
+
+This is not circular causation.
+
+It is the distinction between **ontological priority** and **epistemic recovery**.
+
+---
+
+## XI. Canonical Definition
+
+The revised substrate definition is:
+
+> **Identity is primitive.**
+
+> **Matter is energy-in-motion expressed in geometry.**
+
+> **Geometry structures the manifestation of motion.**
+
+> **Manifested identity stabilizes through transformation without creating the Identity Primitive.**
+
+> **Continuity describes persistence of identity through change.**
+
+> **The Equation of Identity governs that persistence.**
+
+> **Co(X) describes cooperation and continuity relationships within the manifested domain.**
+
+The resulting hierarchy is:
+
+$$
+\boxed{
+I_{\text{primitive}}
+\rightarrow
+\text{Motion}
+\rightarrow
+\text{Geometry}
+\rightarrow
+\text{Manifestation}
+\rightarrow
+\text{Continuity}
+\rightarrow
+\text{Invariant Recovery}
+}
+$$
+
+The Identity Primitive is logically prior to the trajectory.
+
+The trajectory does not create the invariant.
+
+**The trajectory makes persistence of the invariant observable.**
+
+---
+
+## Publication Boundary
+
+This revised entry should remain **PRE-CANONICAL** until its implications across the published Continuity Geometry and Continuity Physics formulations have been examined.
+
+Its present function is to preserve the corrected substrate ordering:
+
+$$
+\boxed{
+\text{Identity is primitive. Continuity governs persistence through transformation.}
+}
+$$
