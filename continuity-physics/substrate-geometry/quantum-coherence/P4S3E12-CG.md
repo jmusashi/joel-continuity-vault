@@ -333,10 +333,7 @@ The Equation of Identity provides the persistence layer.
 If:
 
 $$
-I
-=
-\lim_{n\to\infty}
-\Phi^n(S_0)
+I=\lim_{n\to\infty}\Phi^n(S_0)
 $$
 
 is interpreted as convergence toward stable manifested identity, then recovery of invariance from a transformation sequence points toward the logically prior Identity Primitive.
