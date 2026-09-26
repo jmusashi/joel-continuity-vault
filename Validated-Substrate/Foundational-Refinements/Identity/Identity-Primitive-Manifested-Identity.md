@@ -34,9 +34,9 @@ Identity is logically prior to motion and transformation.
 
 What emerges through transformation is therefore not the identity primitive itself, but the **stabilized manifestation of identity**.
 
-\[
+$$
 I_{\text{primitive}} \neq I_{\text{manifested}}
-\]
+$$
 
 ## Equation of Identity Refinement
 
