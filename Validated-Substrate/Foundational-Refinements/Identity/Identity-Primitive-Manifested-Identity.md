@@ -44,9 +44,9 @@ The Equation of Identity governs the persistence of identity through transformat
 
 Accordingly,
 
-\[
+$$
 I=\lim_{n\to\infty}\Phi^n(S_0)
-\]
+$$
 
 should be interpreted as convergence toward a **stable manifested identity**, rather than the ontological creation of the identity primitive.
 
@@ -58,17 +58,17 @@ Continuity Geometry governs changes in the **manifestation of identity**.
 
 Therefore:
 
-\[
-\kappa>\Lambda
+$$
+\kappa > \Lambda
 \Rightarrow
 \text{Continuity Transition}
-\]
+$$
 
 represents a qualitative transition in continuity geometry without necessarily implying destruction of the underlying identity primitive.
 
 A new invariance structure may subsequently stabilize another viable manifestation:
 
-\[
+$$
 R
 \rightarrow
 \Lambda'
@@ -76,18 +76,18 @@ R
 \text{Emergence}
 \rightarrow
 I'_{\text{manifested}}
-\]
+$$
 
 ## Integrated Relationship
 
-\[
+$$
 I_{\text{primitive}}
 \rightarrow
 I_{\text{manifested}}
 \rightarrow
 C_0(I,\kappa,\Lambda)
 \rightarrow
-\kappa>\Lambda
+\kappa > \Lambda
 \rightarrow
 \text{Continuity Transition}
 \rightarrow
@@ -98,13 +98,13 @@ R
 \text{Emergence}
 \rightarrow
 I'_{\text{manifested}}
-\]
+$$
 
 Throughout this transition:
 
-\[
+$$
 I_{\text{primitive}}
-\]
+$$
 
 remains logically prior.
 
