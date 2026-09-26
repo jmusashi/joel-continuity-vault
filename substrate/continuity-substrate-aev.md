@@ -1,4 +1,9 @@
 # The Continuity Substrate for Autonomous Electric Vehicles  
+
+### Canonical Context Note
+ This entry is preserved as the autonomous-electric-vehicle substrate demonstrator referenced in Issue 0.8 Part IV. Its architecture reflects the conceptual state of the demonstrator at the time of publication. Subsequent DCE formalization should govern interpretation where terminology or architectural roles have since become more precise. In particular, HiveSync remains the zero-communication invariant, while 3Sync integrates Stigmergy, HiveSync, and DCE as a coherence architecture, and 3Spire preserves identity, rationale, and governance continuity across collapse-phase conditions.
+
+
 ### A Seven‑Stage Civilizational Architecture
 
 The civilizational substrate for autonomous motion — a continuity architecture spanning identity, energy, silicon, value, and the primal geometry of transportation.
