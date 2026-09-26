@@ -1,169 +1,217 @@
-# Continuity Conservation of Shape‑in‑Motion  
-## *Foundational Theorem and CGP Supplementary Material*  
-**Tags:** `Continuity Geometry` `CGP` `Invariant Envelope` `Continuity Operator` `Finite Substrate` `Shape-in-Motion`
-
+---
+title: "Continuity Conservation of Shape-in-Motion"
+subtitle: "Foundational Theorem and CGP Supplementary Material"
+type: "DCE Foundational Theorem"
+status: "VALIDATED"
+domain:
+  - "Continuity Geometry"
+  - "Continuity Geometry Processor"
+tags:
+  - DCE
+  - Continuity-Geometry
+  - CGP
+  - invariant-envelope
+  - continuity-operator
+  - finite-substrate
+  - shape-in-motion
+  - continuity-conservation
 ---
 
-## 1. Foundational Theorem: Continuity Conservation of Shape‑in‑Motion
+# Continuity Conservation of Shape-in-Motion
 
-### **Theorem (Continuity Conservation of Shape‑in‑Motion)**  
-Let a continuity substrate be represented by a finite set of matrices  
+## Foundational Theorem and CGP Supplementary Material
 
+## 1. Foundational Theorem: Continuity Conservation of Shape-in-Motion
 
-\[
-\mathcal{M} = \{M_1, M_2, ..., M_n\}
-\]
+### Theorem
 
-  
+Let a continuity substrate be represented by a finite set of matrices:
+
+$$
+\mathcal{M} = \{M_1, M_2, \ldots, M_n\}
+$$
+
 where each matrix defines a continuity cell, its adjacency, and its projection operator.
 
-Let the continuity operator be  
+Let the continuity operator be:
 
-
-\[
+$$
 \Phi : \mathcal{M} \rightarrow \mathcal{M}
-\]
+$$
 
-  
 acting on the state vectors within each continuity cell.
 
-Let the invariant envelope be defined as  
+Let the invariant envelope be defined as:
 
-
-\[
+$$
 I = \lim_{k \to \infty} \Phi^k(S_0)
-\]
+$$
 
-  
 where \(S_0\) is the ground state of the substrate.
 
 **Then:**
 
-> **Even though the continuity substrate is finite, the continuity shape‑in‑motion is unbounded.  
-> The substrate conserves the continuity of the shape, not the static geometry.  
-> The shape evolves indefinitely while the underlying matrices remain finite.**
+> **Even though the continuity substrate is finite, the continuity shape-in-motion is unbounded.**
+>
+> **The substrate conserves the continuity of the shape, not the static geometry.**
+>
+> **The shape evolves indefinitely while the underlying matrices remain finite.**
 
----
+## 2. Proof Sketch
 
-## 2. Proof Sketch (Continuity‑Aligned)
+### Finite Substrate
 
-### **Finite Substrate**  
-The matrices \(\mathcal{M}\) are finite because the physical chip is finite.
+The matrix set \(\mathcal{M}\) is finite because the physical chip is finite.
 
-### **Continuous Operator**  
+### Continuous Operator
+
 The continuity operator \(\Phi\) produces continuous transformations of state vectors.
 
-### **Unbounded Trajectories**  
-Repeated application of \(\Phi\) generates an unbounded trajectory space, even though the substrate is finite.
+### Unbounded Trajectories
 
-### **Invariant Conservation**  
-The invariant envelope \(I\) ensures that continuity is preserved even as the shape changes.
+Repeated application of \(\Phi\) generates an unbounded trajectory space even though the substrate is finite:
 
-### **Shape‑in‑Motion**  
-The geometry appears infinite because the shape evolves continuously, but the substrate itself does not grow.
+$$
+S_0
+\rightarrow
+\Phi(S_0)
+\rightarrow
+\Phi^2(S_0)
+\rightarrow
+\cdots
+$$
 
-**Thus:**
+### Invariant Conservation
 
-> **Finite substrate, infinite motion, conserved continuity.**
+The invariant envelope \(I\) ensures that continuity is preserved as the shape changes.
 
----
+### Shape-in-Motion
+
+The geometry appears unbounded because the shape evolves continuously, while the underlying substrate itself does not grow.
+
+Therefore:
+
+> **Finite substrate. Unbounded motion. Conserved continuity.**
 
 ## 3. Implications for Continuity Geometry
 
-1. **Finite Geometry:**  
-   The physical substrate is discretized into continuity cells.
+### Finite Geometry
 
-2. **Infinite Expression:**  
-   The continuity operator produces unbounded dynamic trajectories.
+The physical substrate is discretized into continuity cells.
 
-3. **Self‑Compensating Dynamics:**  
-   The shape adjusts without losing or gaining continuity.
+### Infinite Expression
 
-4. **Conservation Law:**  
-   The system behaves like a closed universe:  
-   - matter ↔ continuity cells  
-   - energy ↔ continuity flows  
-   - conservation ↔ invariant envelope  
+The continuity operator produces unbounded dynamic trajectories.
 
-5. **Scaling:**  
-   Scaling is geometric, not physical.  
-   Larger continuity shapes are expressed by **replicating finite CGP units**, not by expanding a single chip.
+### Self-Compensating Dynamics
 
----
+The shape adjusts without losing or gaining continuity.
 
-# 4. CGP Supplementary Material  
-## Integration into the Continuity Geometry Processor (CGP)
+### Conservation Law
 
-The Continuity Geometry Processor (CGP) expresses continuity geometry through a finite set of matrices representing continuity cells, adjacency relationships, and projection operators. Although the physical substrate is finite, the continuity shape expressed by the CGP is unbounded.
+The system behaves analogously to a closed universe:
 
----
+- matter ↔ continuity cells
+- energy ↔ continuity flows
+- conservation ↔ invariant envelope
+
+### Scaling
+
+Scaling is geometric rather than the physical expansion of a single substrate.
+
+Larger continuity shapes are expressed through the **replication of finite CGP units**, rather than through indefinite expansion of a single chip.
+
+# 4. CGP Supplementary Material
+
+## Integration into the Continuity Geometry Processor
+
+The Continuity Geometry Processor (CGP) expresses continuity geometry through a finite set of matrices representing continuity cells, adjacency relationships, and projection operators.
+
+Although the physical substrate is finite, the continuity shape expressed by the CGP is dynamically unbounded.
 
 ## 4.1 Theorem Integration
 
-### **Continuity Conservation of Shape‑in‑Motion (CGP Context)**  
-A CGP chip contains a finite set of continuity matrices  
+### Continuity Conservation of Shape-in-Motion in the CGP Context
 
+A CGP chip contains a finite set of continuity matrices:
 
-\[
-\mathcal{M} = \{M_1, M_2, ..., M_n\}
-\]
+$$
+\mathcal{M} = \{M_1, M_2, \ldots, M_n\}
+$$
 
-  
-and a continuity operator  
+and a continuity operator:
 
+$$
+\Phi : \mathcal{M} \rightarrow \mathcal{M}
+$$
 
-\[
-\Phi : \mathcal{M} \rightarrow \mathcal{M}.
-\]
+The invariant envelope:
 
-
-
-The invariant envelope  
-
-
-\[
+$$
 I = \lim_{k \to \infty} \Phi^k(S_0)
-\]
+$$
 
-  
-ensures that the continuity of the shape is preserved even as the shape evolves.
+ensures that continuity of the shape is preserved even as its manifestation evolves.
 
-**Therefore:**
+Therefore:
 
-> **The CGP conserves continuity of the shape‑in‑motion.  
-> The substrate is finite, but the continuity shape is dynamically unbounded.**
-
----
+> **The CGP conserves continuity of the shape-in-motion.**
+>
+> **The substrate is finite, while the continuity shape is dynamically unbounded.**
 
 ## 4.2 Architectural Implications for CGP
 
-### **Finite Geometry**  
-The chip’s physical geometry is finite and discretized into continuity cells.
+### Finite Geometry
 
-### **Infinite Dynamic Expression**  
-The continuity operator produces unbounded trajectories and shape evolution.
+The chip's physical geometry is finite and discretized into continuity cells.
 
-### **Self‑Compensating Shape Dynamics**  
-The shape adjusts without losing or gaining continuity — it preserves its identity through motion.
+### Infinite Dynamic Expression
 
-### **Conservation Law**  
-The CGP behaves like a closed physical universe:  
-- continuity cells ↔ matter  
-- continuity flows ↔ energy  
-- invariant envelope ↔ conservation law  
+The continuity operator produces unbounded trajectories and continuing shape evolution.
 
-### **Geometric Scaling**  
-Scaling is achieved by **replicating CGP units**, not by increasing physical compute.  
-Larger continuity shapes require more spatial threshold, expressed through geometric replication.
+### Self-Compensating Shape Dynamics
 
----
+The shape adjusts while preserving continuity through motion.
 
-# 5. Vault‑Ready Metadata Block
+### Conservation Law
 
-continuity/cgp-continuity-conservation.md
+The CGP can be represented through the following correspondence:
 
-Title: Continuity Conservation of Shape‑in‑Motion (CGP Foundational Theorem)
+- continuity cells ↔ matter
+- continuity flows ↔ energy
+- invariant envelope ↔ conservation law
 
-Description:
-This document formalizes the foundational theorem describing how a finite physical substrate (CGP) expresses an unbounded continuity shape-in-motion. The geometry is a finite set of matrices, but the continuity operator produces infinite dynamic expression. The invariant envelope ensures conservation of continuity, making the CGP behave like a closed universe with self-compensating shape dynamics. Scaling is geometric, not physical, achieved by replication of finite continuity units.
+### Geometric Scaling
 
+Scaling is achieved through **replication of finite CGP units**, rather than indefinite expansion of a single physical substrate.
+
+Larger continuity shapes therefore require greater spatial extent expressed through geometric replication.
+
+## 5. Continuity Statement
+
+The foundational relationship can be summarized as:
+
+$$
+\text{Finite Substrate}
+\xrightarrow{\Phi}
+\text{Unbounded Shape-in-Motion}
+\xrightarrow{I}
+\text{Conserved Continuity}
+$$
+
+The substrate provides finite structure.
+
+The continuity operator provides transformation.
+
+The invariant envelope preserves continuity across that transformation.
+
+## Vault Metadata
+
+**Path:** `continuity/cgp-continuity-conservation.md`
+
+**Title:** Continuity Conservation of Shape-in-Motion (CGP Foundational Theorem)
+
+**Status:** VALIDATED
+
+**Description:**  
+This document formalizes the foundational theorem describing how a finite physical substrate represented by the CGP expresses an unbounded continuity shape-in-motion. The geometry consists of a finite set of matrices, while the continuity operator generates unbounded dynamic expression. The invariant envelope preserves continuity across transformation. Scaling occurs through geometric replication of finite continuity units rather than indefinite expansion of a single physical substrate.
