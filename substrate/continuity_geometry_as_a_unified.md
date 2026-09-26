@@ -117,12 +117,13 @@ It is validated not by physics labs, but by:
 
 Its legitimacy is earned through real‑world systems that embody its continuity rules.
 
-Academic peer review is optional.
-Operational validation is decisive.
+The appropriate validation pathway depends on the claim being tested: 
+- physical claims require physical evidence, 
+- while engineering claims require operational evidence.
 
 ## 5. Implications for the Continuity Canon
 Viewing Continuity Geometry as a structural template clarifies:
-- why the Equation of Identity (EOI) operates at the motion‑level of the substrate
+- why the Equation of Identity governs identity persistence through transformation, while Continuity Geometry governs changes in identity manifestation
 - why admissibility boundaries matter
 - why identity shifts occur under pressure
 - why multi‑scale systems behave coherently
