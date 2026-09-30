@@ -15,7 +15,7 @@ tags:
 ---
 
 # DCE Canonical Index  
-**Version 1.10.0 — Public Continuity Surface**
+** Persistent DOI Version Public Continuity Surface**
 
 This page serves as the **public-facing index** of the Decision Continuity Engineering (DCE) lineage.  
 It mirrors the structure of **Paper 0.0 — The DCE Canonical Index**, but does not replace it.  
