@@ -164,7 +164,7 @@ The vault preserves:
 
 For the authoritative version of the index:
 
-**Paper 0.0 — The DCE Canonical Index (v1.10.0)**  
+**Paper 0.0 — The DCE Canonical Index **  
 Persistent DOI: **10.5281/zenodo.20845213**
 
 ---
