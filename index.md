@@ -128,6 +128,7 @@ Each link opens a continuity-grade page within its layer.
 - [Continuity Conservation of Shape‑in‑Motion (CGP Foundational Theorem)](continuity/cgp-continuity-conservation.md)
 - [Randomness and Infinity in Continuity Geometry](continuity/randomness-and-infinity-in-continuity-geometry.md)
 - [Continuity Geometry, Spooky Action, and the Physics–Simulation Isomorphism](continuity-physics/substrate-geometry/quantum-coherence/P4S3E12-CG.md)
+- [Paradoxes Encountered So Far](continuity/dce-paradoxes/paradoxes_encountered_so_far.md)
 
 ### IV‑A. Symbolic Continuity Layer — Where identity becomes symbol  
 This layer preserves the emblems, marks, and geometric primitives that anchor  
