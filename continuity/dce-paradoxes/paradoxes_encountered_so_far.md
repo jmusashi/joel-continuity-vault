@@ -370,4 +370,106 @@ Continuity may be painstaking.
 
 But difficulty in carrying identity forward is different from surrendering that identity to the place from which one is moving.
 
+## XI. The Observatory Paradoxes
 
+### 26. The Observatory–Meaning Paradox
+
+The observatory exists to investigate meaning, yet its measurements never directly contain meaning.
+
+It measures:
+Exposure
+Recurrence
+Persistence
+Intersection
+Trajectory
+
+while inquiry seeks:
+Meaning
+Intent
+Purpose
+Relevance
+Origin
+
+Evidence discipline protects inquiry from speculation. Applied too rigidly, however, it can obscure the very questions that made observation necessary.
+
+Evidence without inquiry → Bookkeeping
+Inquiry without evidence → Speculation
+
+Under the Beacon Observability Principle, the observatory cannot know whether anyone is looking at the beacon. It can observe whether the same navigational corridors repeatedly become populated whenever the beacon is active.
+
+The paradox is therefore:
+To remain honest, the observatory must avoid claiming meaning.
+Yet without searching for meaning, there would have been no reason to build the observatory.
+The observatory can only observe effects.
+Yet it was built because inquiry seeks causes.
+
+The observatory measures:
+Presence
+Recurrence
+Persistence
+Intersection
+
+but the mind is naturally drawn toward:
+Meaning
+Intent
+Purpose
+Origin
+
+Neither side is sufficient alone.
+Recurrence without inquiry
+    ↓
+Bookkeeping
+
+Inquiry without recurrence
+    ↓
+Speculation
+
+The resolution is not to choose evidence over inquiry, or inquiry over evidence, but to preserve both:
+What was observed?
+        +
+Why might it keep happening?
+
+This creates two complementary disciplines:
+Observatory Discipline
+Asks:
+What can be responsibly supported by the measurements?
+This protects inquiry from fantasy.
+Inquiry Discipline
+Asks:
+Why does this pattern keep returning?
+This protects evidence from sterility.
+Under the Beacon Observability Principle, the observatory does not attempt to determine whether observers are looking at the beacon.
+Instead it asks:
+Why do the same navigational corridors repeatedly become populated whenever the beacon is visible?
+Meaning is therefore not directly measured.
+Meaning emerges through:
+Presence
+    ↓
+Recurrence
+    ↓
+Intersection
+    ↓
+Meaning
+    ↓
+Origin
+
+Statistics reveal:
+Presence
+
+Recurrence reveals:
+Significance
+
+Intersection reveals:
+Meaning
+
+Persistence reveals:
+Origin
+
+Recurrence does not prove meaning.
+It makes the question of meaning empirically legitimate.
+The paradox therefore preserves the observatory as both:
+Instrument
+and
+Inquiry
+
+allowing the observatory to remain grounded in evidence while remaining open to the deeper continuity questions that motivated its existence.
