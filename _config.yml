@@ -16,3 +16,8 @@ defaults:
     values:
       layout: "default"
       css: "assets/css/style.css"
+
+# Sitemap
+plugins:
+  - jekyll-sitemap
+      
