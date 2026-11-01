@@ -18,7 +18,7 @@ defaults:
       css: "assets/css/style.css"
 
 # Sitemap
-url: "https://monasterial.ph"
+url: "https://joel.monasterial.ph"
 
 plugins:
   - jekyll-sitemap
