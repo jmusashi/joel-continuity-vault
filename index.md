@@ -70,7 +70,8 @@ This vault serves as the public anchor for my continuity canon and the narrative
 - https://linkedin.com/in/joelmonasterial  
 - https://x.com/joelmonasterial  
 - https://github.com/jmusashi  
-- https://orcid.org/0009-0000-7620-645X  
+- https://orcid.org/0009-0000-7620-645X
+- https://www.youtube.com/@dce-universe
 - https://joel.monasterial.ph — this site
 
 ---
