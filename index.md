@@ -44,6 +44,7 @@ Thus the emblem expresses:
 - **Continuity Theater (X Episodes)**  
 - **Continuity Papers (Zenodo paper xx.x.x Series)**  
 - **Continuity Posts and Issues (LinkedIn Issue xx.x Narrative Series)**
+- **DCE-Inspired Cinematic Stories, Mysteries, Thought Experiments (YouTube Channel Handle: @dce-universe)**
 
 - For X posts, ask an AI companion to interpret based on the author’s knowledge age guide:  
   https://github.com/jmusashi/joel-knowledge-age-guide/blob/main/how_to_interpret_joel_posts
