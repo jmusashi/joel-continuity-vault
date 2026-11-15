@@ -242,4 +242,9 @@ It is simply a tool — and continuity is preserved because a human stands accou
 ## 🜂 Stewardship
 Authorship is an invariant.  
 Stewardship is continuity.  
-This notebook is part of the cathedral.
+This notebook is part of the cathedral.  
+
+You don't have to walk beside me.  
+You don't even have to arrive at my conclusion.  
+But if you find this trace while walking your own path, perhaps you'll know you're not alone.  
+My memory lives here.
