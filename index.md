@@ -77,7 +77,7 @@ This vault serves as the public anchor for my continuity canon and the narrative
 
 ---
 
-# Continuity Vault
+## Continuity Vault
 A free‑form, cadence‑free substrate for continuity geometry, invariant envelopes, and long‑arc reflections.
 
 This notebook is a continuity vault — a place where motion becomes memory,  
