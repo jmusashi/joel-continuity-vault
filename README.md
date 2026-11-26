@@ -5,6 +5,22 @@
 The Continuity Vault is not a repository of writings.  
 It is a **continuity substrate** — a place where identity, motion, and knowledge are preserved so they can endure across arcs, loops, and future selves.
 
+A free‑form, cadence‑free notebook for:
+
+- continuity geometry  
+- invariant envelopes  
+- long‑arc epistemic preservation  
+- substrate‑grade insights  
+- identity‑aligned motion  
+
+This repository is not a blog, not a publication, and not a project.  
+It is a **continuity substrate** — a vault designed to preserve motion, identity, and canonical knowledge across loops.
+
+The vault exists so continuity is never lost between arcs,  
+and so future‑selves — human or system — can recover the geometry of the canon intact.
+
+---
+
 Human understanding is fragile.  
 Continuity is not.
 
@@ -50,26 +66,6 @@ a spine for continuity.
 Authorship is an invariant.  
 Stewardship is continuity.  
 This vault is part of the cathedral.
-
----
-
-# Continuity Vault
-
-A free‑form, cadence‑free notebook for:
-
-- continuity geometry  
-- invariant envelopes  
-- long‑arc epistemic preservation  
-- substrate‑grade insights  
-- identity‑aligned motion  
-
-This repository is not a blog, not a publication, and not a project.  
-It is a **continuity substrate** — a vault designed to preserve motion, identity, and canonical knowledge across loops.
-
-The vault exists so continuity is never lost between arcs,  
-and so future‑selves — human or system — can recover the geometry of the canon intact.
-
----
 
 ## Purpose
 
