@@ -5,7 +5,7 @@ Welcome to my continuity vault. This is the public landing page for my identity 
 
 ---
 
-# 🜁 The Invariant Continuity Loop (ICL)  
+## 🜁 The Invariant Continuity Loop (ICL)  
 **The Emblem of the DCE Foundation**
 
 The **Invariant Continuity Loop (ICL)** is the canonical emblem of the DCE Foundation.  
