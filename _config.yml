@@ -22,4 +22,5 @@ url: "https://joel.monasterial.ph"
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
       
